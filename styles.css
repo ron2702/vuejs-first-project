@@ -60,6 +60,12 @@ section {
   justify-content: center;
 }
 
+#log {
+  overflow-y: auto;
+  height: 100%;
+  max-height: 250px;
+}
+
 button {
   font: inherit;
   border: 1px solid #88005b;
